@@ -1,0 +1,111 @@
+/* navbar */
+.navbar-inverse , .footer
+{
+    background-color:#44749d;
+}
+.footer
+{
+    padding:18px;
+    margin:30px 0px 0px 0px;
+    color:white;
+}
+.navbar-inverse .navbar-brand
+{
+    color:white;
+}
+.affix 
+{
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+.affix + .container-fluid 
+{
+    padding-top: 70px;
+}
+
+/* carousel */
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img 
+{
+  width:850px;
+  height: 390px;
+}
+
+/*caret*/
+.caret
+{
+    color:white;
+}
+body
+{
+    background-color: #e6e2dd;
+}
+
+/* Login CSS */
+.outter-form-login 
+{
+    padding: 35px;
+    background: #EEEEEE;
+    position: relative;
+    margin-top:12%;
+    border-radius: 5px;
+}
+.logo-login 
+{
+    position: absolute;
+    font-size: 40px;
+    background: #44749d;
+    color: #e6e2dd;
+    padding: 10px 18px;
+    top: -40px;
+    border-radius: 50%;
+    left: 40%;
+}
+.inner-login .form-control 
+{
+    background: #D3D3D3;
+}
+h4.title-login 
+{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.forget 
+{
+    margin-top: 20px;
+    color: #ADADAD;
+}
+.btn-custom-blue
+{
+    background: #44749d;
+    color: #fff;
+}
+
+/* Tag Select */
+
+.form-control:hover
+{
+    box-shadow:0 0 7px 5px lightblue;
+}
+
+.navbar-default
+{
+    background-color:red;
+}
+
+.footer-berita
+{
+    margin-top:100px;
+}
+.form-submit
+{
+    background:skyblue;
+    box-shadow:0 0 7px;
+}
+
+
+
+
+
